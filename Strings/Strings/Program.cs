@@ -7,6 +7,8 @@ namespace Strings
     {
         static void Main(string[] args)
         {
+
+
             string myString = "Hello Batman";
             string mickey = "Hello Mickey Mouse";
 
