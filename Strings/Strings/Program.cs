@@ -9,6 +9,8 @@ namespace Strings
         {
 
 
+
+
             string myString = "Hello Batman";
             string mickey = "Hello Mickey Mouse";
 
